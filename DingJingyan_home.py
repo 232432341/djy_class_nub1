@@ -16,7 +16,7 @@ def img_change(img, rc, gc, bc):
 
 def page1():
     st.write("这是本作者的兴趣推荐页:sunglasses:")
-    st.image("DingJingyan_未知1.png")
+    st.image("DingJingyan_111.png")
     st.write("没有视频和音频是因为没有视频和音频的文件")
     #st.audio(".mp3")
     #st.video(".mp4")
